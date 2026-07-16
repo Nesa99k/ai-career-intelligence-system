@@ -1,0 +1,38 @@
+# AI Career Intelligence Report
+
+## dataset_overview
+
+- **total_jobs** : 1500
+- **average_salary** : 194892.0
+- **highest_paying_jobs** : [{'title': 'AI Solutions Architect', 'country': 'UAE', 'salary': 384000.0}, {'title': 'AI Solutions Architect', 'country': 'Canada', 'salary': 384000.0}, {'title': 'AI Solutions Architect', 'country': 'USA', 'salary': 384000.0}, {'title': 'Senior ML Engineer', 'country': 'USA', 'salary': 374400.0}, {'title': 'Senior ML Engineer', 'country': 'France', 'salary': 374400.0}]
+
+## market_analysis
+
+- **jobs_by_country** : [('USA', 515), ('UK', 90), ('China', 87), ('Canada', 85), ('Global', 82), ('Germany', 81), ('Australia', 78), ('Japan', 76), ('Switzerland', 76), ('Netherlands', 74)]
+- **jobs_by_category** : [('AI Engineering', 736), ('Data Science', 127), ('Governance', 122), ('Robotics', 74), ('Product', 70), ('Business', 62), ('Infrastructure', 55), ('Architecture', 52), ('Data Engineering', 51), ('ML Operations', 51)]
+- **remote_work_distribution** : [('Hybrid', 45.733333333333334), ('Fully Remote', 29.666666666666668), ('On-site', 24.6)]
+- **titles_by_category** : [('AI Engineering', ['AI Agent Developer', 'AI Engineer', 'Computer Vision Engineer', 'Deep Learning Engineer', 'Generative AI Engineer', 'LLM Engineer', 'ML Engineer', 'Multimodal AI Engineer', 'NLP Engineer', 'Prompt Engineer', 'RAG Engineer', 'Senior ML Engineer']), ('Architecture', ['AI Solutions Architect']), ('Business', ['AI Business Analyst']), ('Data Engineering', ['Data Engineer (AI)']), ('Data Science', ['Data Scientist', 'Senior Data Scientist']), ('Governance', ['AI Compliance Manager', 'AI Ethics Officer']), ('Infrastructure', ['AI Infrastructure Eng']), ('ML Operations', ['MLOps Engineer']), ('Product', ['AI Product Manager']), ('Research', ['AI Research Scientist']), ('Robotics', ['Robotics Engineer (AI)']), ('Security', ['AI Security Engineer'])]
+
+## skills_analysis
+
+- **most_common_skills** : [('Python', 942), ('SQL', 452), ('Cloud', 429), ('Leadership', 380), ('Communication', 378), ('Research', 376), ('Agile', 351), ('Statistics', 350), ('Linux', 320), ('Problem Solving', 314)]
+- **python_jobs** : 942
+- **top_llm_skills** : [('Python', 255), ('Fine-tuning', 110), ('LLM APIs', 103), ('Vector DBs', 95), ('LLMs', 85), ('LangChain', 77), ('Linux', 76), ('Git', 74), ('Research', 69), ('Cloud', 68)]
+
+## salary_analysis
+
+- **average_salary_by_country** : [('USA', 226189.90291262136), ('Global', 222043.9024390244), ('UAE', 194225.8064516129), ('Switzerland', 190592.1052631579), ('Australia', 188000.0), ('France', 183151.51515151514), ('Singapore', 181830.98591549296), ('Germany', 181180.24691358025), ('UK', 180644.44444444444), ('Canada', 180588.23529411765), ('Netherlands', 175256.75675675675), ('Japan', 170131.57894736843), ('China', 134287.3563218391), ('India', 133122.80701754385)]
+- **average_salary_by_category** : [('Architecture', 251576.92307692306), ('AI Engineering', 207982.33695652173), ('Infrastructure', 203527.27272727274), ('Security', 200400.0), ('ML Operations', 199215.6862745098), ('Product', 194571.42857142858), ('Research', 192280.0), ('Data Science', 181275.5905511811), ('Data Engineering', 176156.86274509804), ('Robotics', 170851.35135135136), ('Governance', 152516.39344262294), ('Business', 134145.16129032258)]
+- **salary_by_experience** : [('Lead (10+ yrs)', 240055.11811023622), ('Senior (6-9 yrs)', 214280.21978021978), ('Mid (3-5 yrs)', 175983.7837837838), ('Entry (0-2 yrs)', 150038.96103896105)]
+
+## demand_analysis
+
+- **top_demand_jobs** : [{'title': 'LLM Engineer', 'country': 'USA', 'demand_score': 98.0}, {'title': 'LLM Engineer', 'country': 'Australia', 'demand_score': 98.0}, {'title': 'LLM Engineer', 'country': 'Netherlands', 'demand_score': 98.0}, {'title': 'LLM Engineer', 'country': 'Japan', 'demand_score': 98.0}, {'title': 'LLM Engineer', 'country': 'UAE', 'demand_score': 98.0}, {'title': 'LLM Engineer', 'country': 'Global', 'demand_score': 98.0}, {'title': 'LLM Engineer', 'country': 'Singapore', 'demand_score': 98.0}, {'title': 'LLM Engineer', 'country': 'China', 'demand_score': 98.0}, {'title': 'LLM Engineer', 'country': 'Germany', 'demand_score': 98.0}, {'title': 'LLM Engineer', 'country': 'UK', 'demand_score': 98.0}]
+- **average_demand_score** : 87.52333333333333
+- **llm_jobs_percentage** : 21.8
+
+## education_analysis
+
+- **education_distribution** : [("Master's", 316), ("Bachelor's", 311), ('Bootcamp/Self-taught', 297), ("Associate's", 296), ('PhD', 280)]
+- **average_salary_by_education** : [('PhD', 213252.14285714287), ("Master's", 205805.69620253163), ("Bachelor's", 192321.54340836013), ('Bootcamp/Self-taught', 187002.0202020202), ("Associate's", 176490.54054054053)]
+
