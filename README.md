@@ -23,24 +23,6 @@ This project demonstrates clean software architecture, object-oriented programmi
 
 ---
 
-## Dataset
-
-Dataset:
-
-AI Jobs Market (2025–2026)
-
-Contains approximately 1500 AI-related job postings including:
-
-- Job titles
-- Salaries
-- Required skills
-- Education
-- Countries
-- Remote work
-- Demand score
-
----
-
 ## Project Structure
 
 ```text
@@ -56,10 +38,34 @@ ai_career_intelligence_system/
 ├── profiling/
 ├── reports/
 ├── validators/
+├── docs/
+│   └── flowchart.svg
 │
 ├── main.py
 └── README.md
 ```
+
+---
+
+## System Architecture
+
+![System Architecture](docs/flowchart.svg)
+
+---
+
+## Dataset
+
+**Dataset:** AI Jobs Market (2025–2026)
+
+Contains approximately 1,500 AI-related job postings, including:
+
+- Job titles
+- Salaries
+- Required skills
+- Education
+- Countries
+- Remote work
+- Demand score
 
 ---
 
@@ -112,9 +118,10 @@ This project focuses on:
 
 ## Requirements
 
-Python 3.11+
+- Python 3.11+
+- No external libraries required
 
-No external libraries required.
+This project uses only the Python Standard Library.
 
 ---
 
